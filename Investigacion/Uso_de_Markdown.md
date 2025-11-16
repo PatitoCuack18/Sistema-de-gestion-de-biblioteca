@@ -101,3 +101,34 @@ Este documento muestra cómo utilizar los elementos básicos de Markdown: encabe
 # Encabezado nivel 1
 ## Encabezado nivel 2
 ### Encabezado nivel 3
+```
+
+---
+## 2. Listas
+### Lista no ordenada
+
+```markdown
+- Elemento 1
+- Elemento 2
+- Elemento 3
+```
+
+---
+
+### Lista ordenada
+
+```markdown
+1. Primer paso
+2. Segundo paso
+3. Tercer paso
+```
+
+---
+
+## 3. Tablas
+
+| Nombre    | Edad | Lenguaje |
+|-----------|------|----------|
+| Ana       | 25   | Python   |
+| Carlos    | 30   | JavaScript |
+| Beatriz   | 28   | Java     |
