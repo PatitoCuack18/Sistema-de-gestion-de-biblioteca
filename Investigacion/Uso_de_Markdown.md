@@ -84,11 +84,6 @@ Muchos entornos de programación y plataformas de colaboración utilizan Markdow
 
 ---
 
-## Conclusión
-Markdown se ha convertido en una herramienta esencial por su versatilidad, facilidad de uso y compatibilidad con múltiples plataformas. Su sintaxis simple permite crear documentos claros sin necesidad de editores complejos.
-
----
-
 # Ejemplo práctico de uso de Markdown
 
 Este documento muestra cómo utilizar los elementos básicos de Markdown: encabezados, listas, tablas, enlaces e imágenes.
@@ -127,8 +122,60 @@ Este documento muestra cómo utilizar los elementos básicos de Markdown: encabe
 
 ## 3. Tablas
 
+```markdown
 | Nombre    | Edad | Lenguaje |
 |-----------|------|----------|
 | Ana       | 25   | Python   |
 | Carlos    | 30   | JavaScript |
 | Beatriz   | 28   | Java     |
+```
+
+---
+
+## 4. Enlaces
+
+```markdown
+[Visitar GitHub](https://github.com)
+```
+
+---
+
+## 5. Imagenes
+
+```markdown
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+```
+
+---
+
+# Ventajas de utilizar Markdown en combinación con GitHub
+
+Markdown y GitHub son una combinación muy poderosa para la documentación de proyectos de software. A continuación se detallan las principales ventajas:
+
+## 1. Legibilidad
+
+Los archivos Markdown son **claros y fáciles de leer en texto plano**, incluso sin renderizar. Esto permite que cualquier colaborador pueda entender la documentación rápidamente.
+
+## 2. Formato automático en GitHub
+
+GitHub renderiza automáticamente los archivos `.md`, mostrando encabezados, listas, tablas, enlaces e imágenes de forma estructurada y profesional, sin necesidad de configuración adicional.
+
+## 3. Control de versiones
+
+Al estar en repositorios Git, los documentos Markdown pueden **versionarse junto con el código fuente**, lo que permite llevar un historial de cambios, revertir versiones y colaborar de manera eficiente en equipo.
+
+## 4. Portabilidad y simplicidad
+
+Markdown es **ligero y portátil**. No requiere software especializado para editar, solo un editor de texto, y se puede convertir fácilmente a HTML, PDF o presentaciones.
+
+## 5. Colaboración y trabajo en equipo
+
+Al integrarse con GitHub, Markdown facilita la colaboración mediante:
+
+- Revisiones de cambios (pull requests)
+- Comentarios en documentación
+- Integración con issues y proyectos
+
+## Conclusión
+
+Usar Markdown en combinación con GitHub permite documentar proyectos de forma **eficiente, legible y colaborativa**, manteniendo la documentación siempre actualizada junto con el código.
