@@ -86,3 +86,18 @@ Muchos entornos de programación y plataformas de colaboración utilizan Markdow
 
 ## Conclusión
 Markdown se ha convertido en una herramienta esencial por su versatilidad, facilidad de uso y compatibilidad con múltiples plataformas. Su sintaxis simple permite crear documentos claros sin necesidad de editores complejos.
+
+---
+
+# Ejemplo práctico de uso de Markdown
+
+Este documento muestra cómo utilizar los elementos básicos de Markdown: encabezados, listas, tablas, enlaces e imágenes.
+
+---
+
+## 1. Encabezados
+
+```markdown
+# Encabezado nivel 1
+## Encabezado nivel 2
+### Encabezado nivel 3
