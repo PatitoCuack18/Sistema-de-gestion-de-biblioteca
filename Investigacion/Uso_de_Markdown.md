@@ -16,6 +16,8 @@ Markdown se utiliza ampliamente en proyectos de software porque ofrece varias ve
 
 Markdown se ha convertido en un estándar para documentar proyectos de software debido a su simplicidad, eficiencia y compatibilidad con herramientas modernas de desarrollo.
 
+---
+
 # Usos de Markdown
 
 Markdown es un lenguaje de marcado ligero que permite formatear texto de manera sencilla y rápida. Su principal objetivo es facilitar la creación de contenidos claros y estructurados sin necesidad de utilizar herramientas complejas.
